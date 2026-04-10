@@ -86,9 +86,11 @@ El código de `docs/10_corners/context-free_grammar.py` permite:
 Este módulo depende de `numpy`, `Pillow` y `matplotlib`.
 
 ## Notas
-
-- El proyecto está en estado de ejemplo/prototipo.
 - Si necesitas ejecutar una prueba completa en `docs/10_corners/`, puedes crear un script adicional para cargar una imagen y usar las funciones definidas en `context-free_grammar.py`.
+
+## Autores
+- Gómez Linares Enrique Anael
+- Galvan Delgadillo Victoria
 
 ## Licencia
 
